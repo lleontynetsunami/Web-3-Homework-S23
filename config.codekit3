@@ -257,6 +257,14 @@
       "oAP" : "\/dev\/content\/hero.html",
       "oF" : 0
     },
+    "\/dev\/content\/new.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/new.html",
+      "oF" : 0
+    },
     "\/dev\/content\/subHero.kit" : {
       "cB" : 0,
       "ft" : 2048,
