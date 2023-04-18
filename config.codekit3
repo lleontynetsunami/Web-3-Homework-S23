@@ -88,6 +88,16 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/global\/arrow.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/global\/arrow.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/deploy\/img\/header\/logo.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -230,6 +240,14 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/dev\/content\/hero.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/hero.html",
+      "oF" : 0
     },
     "\/dev\/global\/footer.kit" : {
       "cB" : 0,
