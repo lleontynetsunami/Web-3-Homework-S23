@@ -131,19 +131,6 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/hero\/planning.jpg" : {
-      "ft" : 16384,
-      "iS" : 15773,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/hero\/planning.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/deploy\/img\/hero\/tickets.jpg" : {
       "ft" : 16384,
       "iS" : 14290,
@@ -222,6 +209,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/subHero\/planning.jpg" : {
+      "ft" : 16384,
+      "iS" : 15773,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/subHero\/planning.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -247,6 +247,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/content\/hero.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/subHero.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/subHero.html",
       "oF" : 0
     },
     "\/dev\/global\/footer.kit" : {
